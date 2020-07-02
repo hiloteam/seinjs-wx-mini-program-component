@@ -1,0 +1,39 @@
+{
+  "name": "seinjs-wx-mini-program-component",
+  "version": "0.8.0",
+  "description": "A wx mini program component for using Sein.js.",
+  "main": "seinjs.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:SeinJS/Sein.js.git"
+  },
+  "keywords": [
+    "Game engine",
+    "Sein.js",
+    "SeinJS",
+    "Mini Program"
+  ],
+  "authors": [
+    {
+      "name": "Tianyu Dai (dtysky)",
+      "email": "dtysky@outlook.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiloteam/seinjs-wx-mini-program-component/issues"
+  },
+  "files": [
+    "README.md",
+    "seinjs.js",
+    "seinjs.json",
+    "seinjs.wxss",
+    "seinjs.wxml",
+    "injectCanvas.js",
+    "LICENCE"
+  ],
+  "homepage": "https://github.com/hiloteam/seinjs-wx-mini-program-component#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
