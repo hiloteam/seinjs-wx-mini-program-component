@@ -1,8 +1,9 @@
 {
   "name": "seinjs-wx-mini-program-component",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "A wx mini program component for using Sein.js.",
   "main": "seinjs.js",
+  "miniprogram": "./",
   "scripts": {},
   "repository": {
     "type": "git",
